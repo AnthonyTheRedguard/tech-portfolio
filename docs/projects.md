@@ -12,3 +12,5 @@ You can list [links](https://www.hashicorp.com/resources/test-driven-development
 or even embed images with the following Markdown:
 
 ![Add alternate text for image](./assets/rosemary.png)
+
+![Last weeks assigment](./assets/"Screenshot 2022-11-14 220617.jpg")
